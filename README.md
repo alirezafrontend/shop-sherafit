@@ -27,10 +27,25 @@ A modern and fully functional e-commerce website built with Next.js 15, Tailwind
 
 ## 📸 Screenshots  
 ![App Screenshot](https://github.com/user-attachments/assets/8d0ae166-9c5b-4f3d-97b7-a82f77703f9e)
+
+
+
 ![App Screenshot](https://github.com/user-attachments/assets/6b7093f2-4507-44af-a577-8a4ea03fce68)
+
+
+
 ![App Screenshot](https://github.com/user-attachments/assets/64ea983e-1486-4d2b-941c-2095adbecc81)
+
+
+
 ![App Screenshot](https://github.com/user-attachments/assets/5c1efeeb-8014-4406-8857-5c3c88f716ee)
+
+
+
 ![App Screenshot](https://github.com/user-attachments/assets/938963e2-daae-47d4-9e8d-57993c4c9657)
+
+
+
 ![App Screenshot](https://github.com/user-attachments/assets/6e81627c-5245-4b96-ae3d-7a004f5008f5)
 
 
