@@ -6,21 +6,21 @@ A modern and fully functional e-commerce website built with Next.js 15, Tailwind
 
 
 ## 🚀 Features  
-✔️ Fully responsive design optimized for mobile, tablet, and desktop.
-✔️ Search functionality to quickly find products by name or description.
-✔️ Shopping cart with dynamic item management.
-✔️ Data fetching and caching with React Query for fast and efficient performance.
-✔️ Type-safe development with TypeScript for better code reliability.
-✔️ Easy to extend and customize for future features or improvements.
+✔️ Fully responsive design optimized for mobile, tablet, and desktop.<br/>
+✔️ Search functionality to quickly find products by name or description.<br/>
+✔️ Shopping cart with dynamic item management.<br/>
+✔️ Data fetching and caching with React Query for fast and efficient performance.<br/>
+✔️ Type-safe development with TypeScript for better code reliability.<br/>
+✔️ Easy to extend and customize for future features or improvements.<br/>
 
 
 ## 🛠️ Technologies Used
-✔️ Next.js 15 – For server-side rendering, routing, and optimizing performance.
-✔️ redux – For state management (shopping cart, user session, etc.).
-✔️ React Query – For fetching, caching, and managing server state efficiently.
-✔️ TypeScript – For type-safe code and better developer experience.
-✔️ Tailwind CSS – For utility-first, responsive design.
-✔️ RESTful API – For backend communication.
+✔️ Next.js 15 – For server-side rendering, routing, and optimizing performance.<br/>
+✔️ redux – For state management (shopping cart, user session, etc.).<br/>
+✔️ React Query – For fetching, caching, and managing server state efficiently.<br/>
+✔️ TypeScript – For type-safe code and better developer experience.<br/>
+✔️ Tailwind CSS – For utility-first, responsive design.<br/>
+✔️ RESTful API – For backend communication.<br/>
 
 ## 🎥 Live Demo  
 🔗 **[Watch Demo](https://shop-sherafit.vercel.app/ "Live Demo")**  
